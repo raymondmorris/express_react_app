@@ -7,7 +7,7 @@ const cors = require("cors")
 ///////////////////////
 // Import Json
 ///////////////////////
-const project = require("./projects.json")
+const projects = require("./projects.json")
 const about = require("./about.json")
 
 /////////////////////////
